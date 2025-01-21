@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=androidstudio,cs,css,dart,firebase,flutter,javascript,kotlin,sqlite,unity,vscode,java,notion&theme=dark&perline=15" alt="My Skills" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=androidstudio,cs,css,dart,firebase,flutter,javascript,kotlin,sqlite,unity,vscode,java,notion,figma&theme=dark&perline=15" alt="My Skills" /></a>
 
 <p align="left">
 <a href="https://github.com/hilmisatrio16">
