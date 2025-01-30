@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hilmi Satrio</h1>
 <h3 align="center">A passionate mobile developer</h3>
-<p>I am passionate about mobile application development, specializing in Android development through both native and cross-platform technologies. With two years of experience in the field, I have a deep understanding of the Android app development process. I am always open to collaborative opportunities to create innovative and high-quality applications.</p>
+<p>I am passionate about mobile application development, specializing in Android development through both native and flutter technologies. With two years of experience in the field, I have a deep understanding of the Android app development process. I am always open to collaborative opportunities to create innovative and high-quality applications.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
